@@ -1,12 +1,14 @@
 # 💫 About Me:
-I'm Espoir, a Computer Engineering student at VNU-HCMUT with a passion for technology and innovation. I’m particularly excited about the intersections of Machine Learning, IoT, and Embedded Systems, and I’m always eager to learn more and tackle new challenges.
-<br><br>🔭 **Current Journey**: Studying Computer Engineering at VNU-HCMUT, focusing on software development and intelligent systems.
-<br>🌱 **Learning Path**: I’m currently learning Machine learning, Iot and Embedded system
-<br>👯 **Collaboration Goals**: I’m looking to team up on beginner-friendly projects in Machine Learning, IoT, or Embedded Systems. Whether it’s coding smart devices or experimenting with data models, I’d love to contribute and grow alongside others.
-<br>🤝**Seeking Support**: I’d appreciate guidance on Machine Learning algorithms and their applications in IoT and Embedded Systems. If you’ve got experience or great resources to share, let’s connect!<br>💬 Let’s Chat: Ask me about IoT or Machine Learning! I’m still learning, but I’m happy to talk about sensor networks, data analytics, or basic ML models.
+I'm Espoir, a Computer Engineering student at VNU-HCMUT with a passion for technology and innovation. 
+<br><br>🔭Im currently studying Computer Engineering at VNU-HCMUT, focusing on software development and intelligent systems.
+<br>🌱I’m particularly excited about the intersections of Machine Learning, IoT, and Embedded Systems, and I’m always eager to learn more and tackle new challenges.
+<br>👯I’m looking to team up on beginner-friendly projects in Machine Learning, IoT, or Embedded Systems. Whether it’s coding smart devices or experimenting with data models, I’d love to contribute and grow alongside others.
+<br>🤝I’d appreciate guidance on Machine Learning algorithms and their applications in IoT and Embedded Systems. If you’ve got experience or great resources to share, let’s connect!
+<br>💬Ask me about IoT or Machine Learning! I’m still learning, but I’m happy to talk about sensor networks, data analytics, or basic ML models.
 <br>⚡**Fun Fact**: I’m on a continuous learning adventure—every day brings a chance to explore something new in tech!
-<br> **Let’s Connect**: I’d love to chat about tech, projects, or anything exciting!
 ## 🌐 Socials:
+<p>I’d love to chat about tech, projects, or anything exciting! Let's connect</p> 
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@minh_tran2903)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:minhtran.abc.work@gmailc.om) 
 
