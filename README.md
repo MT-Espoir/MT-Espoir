@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Minh or you can call me Espoir</h1>
+<h1>Hi 👋, I'm Espoir</h1>
 <p>I'm currently Studying Computer Engineering at VNU-HCMUT </p>
 <p>I’m interested in Machine learning, Iot and Embedded system also in Front end</p>
 <h2>🚀 Languages and Tools I Use</h2>
