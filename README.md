@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Espoir, a Computer Engineering student at VNU-HCMUT with a passion for technology and innovation. 
+I'm Minh, a Computer Engineering student at VNU-HCMUT with a passion for technology and innovation. 
 <br><br>🔭Im currently studying Computer Engineering at VNU-HCMUT, focusing on software development and intelligent systems.
 <br>🌱I’m particularly excited about the intersections of Machine Learning, IoT, and Embedded Systems, and I’m always eager to learn more and tackle new challenges.
 <br>👯I’m looking to team up on beginner-friendly projects in Machine Learning, IoT, or Embedded Systems. Whether it’s coding smart devices or experimenting with data models, I’d love to contribute and grow alongside others.
