@@ -1,17 +1,42 @@
-# 💫 About Me:
-I'm Minh, a Computer Engineering student at VNU-HCMUT with a passion for technology and innovation. 
-<br><br>🔭Im currently studying Computer Engineering at VNU-HCMUT, focusing on software development and intelligent systems.
-<br>🌱I’m particularly excited about the intersections of Machine Learning, IoT, and Embedded Systems, and I’m always eager to learn more and tackle new challenges.
-<br>👯I’m looking to team up on beginner-friendly projects in Machine Learning, IoT, or Embedded Systems. Whether it’s coding smart devices or experimenting with data models, I’d love to contribute and grow alongside others.
-<br>🤝I’d appreciate guidance on Machine Learning algorithms and their applications in IoT and Embedded Systems. If you’ve got experience or great resources to share, let’s connect!
-<br>💬Ask me about IoT or Machine Learning! I’m still learning, but I’m happy to talk about sensor networks, data analytics, or basic ML models.
-<br>⚡**Fun Fact**: I’m on a continuous learning adventure—every day brings a chance to explore something new in tech!
-## 🌐 Socials:
-<p>I’d love to chat about tech, projects, or anything exciting! Let's connect</p> 
+# 💫 About Me
+I'm Minh, a **Computer Engineering Graduate from VNU-HCMUT** specializing in **AI Engineering**, **Generative AI (LLMs & RAG)**, **Computer Vision (OCR & Image Recognition)**, and **AIoT**.
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@minh_tran2903)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:minhtran.abc.work@gmail.com) 
+<br>🎓 **Background**: B.S. in Computer Engineering from VNU-HCMUT (HCMUT - Bách Khoa).
+<br>🔭 **Currently focusing on**: Building end-to-end AI applications using **LLMs**, **Retrieval-Augmented Generation (RAG)** pipelines, and **Computer Vision** models.
+<br>🌱 **Deepening expertise in**: Advanced RAG architectures, Vector Databases, OCR/Document Processing, and deploying Edge AI models.
+<br>👯 **Open to collaborate on**: GenAI applications, Intelligent Search & RAG systems, OCR/Vision AI pipelines, and Edge AI integration.
+<br>🤝 **Looking to connect for**: Discussions on AI Engineering best practices, LLM system design, Vector Search optimization, and Computer Vision deployments.
+<br>💬 **Ask me about**: RAG architecture, LLMs, OCR & Image Recognition, PyTorch/TensorFlow, OpenCV, or AIoT Edge Gateways!
+<br>⚡ **Fun Fact**: Passionate about bridging advanced GenAI/LLM capabilities with real-world computer vision and edge hardware! 🚀
+
+## 🌐 Socials & Contact:
+<p>Let's connect and discuss GenAI, Computer Vision, or exciting tech collaborations!</p>
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/@minh_tran2903)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mtran2911.work@gmail.com)
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### 🤖 **Generative AI, LLMs & RAG**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 👁️ **Computer Vision & OCR**
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### ⚡ **AIoT, Systems & Infrastructure**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+### 🛠️ **Fullstack & Tools**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
