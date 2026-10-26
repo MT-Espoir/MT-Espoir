@@ -1,7 +1,7 @@
 # 💫 About Me
 I'm Minh, a **Computer Engineering Graduate from VNU-HCMUT** specializing in **AI Engineering**, **Generative AI (LLMs & RAG)**, **Computer Vision (OCR & Image Recognition)**, and **AIoT**.
 
-<br>🎓 **Background**: B.S. in Computer Engineering from VNU-HCMUT (HCMUT - Bách Khoa).
+<br>🎓 **Background**: Bachelor of Engineering in Computer Engineering from VNU-HCMUT (HCMUT - Bach Khoa).
 <br>🔭 **Currently focusing on**: Building end-to-end AI applications using **LLMs**, **Retrieval-Augmented Generation (RAG)** pipelines, and **Computer Vision** models.
 <br>🌱 **Deepening expertise in**: Advanced RAG architectures, Vector Databases, OCR/Document Processing, and deploying Edge AI models.
 <br>👯 **Open to collaborate on**: GenAI applications, Intelligent Search & RAG systems, OCR/Vision AI pipelines, and Edge AI integration.
@@ -12,7 +12,7 @@ I'm Minh, a **Computer Engineering Graduate from VNU-HCMUT** specializing in **A
 ## 🌐 Socials & Contact:
 <p>Let's connect and discuss GenAI, Computer Vision, or exciting tech collaborations!</p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/@minh_tran2903)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minhtran2911)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mtran2911.work@gmail.com)
 
 # 💻 Tech Stack:
